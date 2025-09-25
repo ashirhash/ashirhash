@@ -7,5 +7,3 @@
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=mysql,graphql,gitlab,nestjs)](https://skillicons.dev)
-
-## Connect with me!
