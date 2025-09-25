@@ -1,1 +1,1 @@
-🎈 Just a really cool dev working on really cool things
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=25&duration=3000&pause=600&color=EDFF5B&center=true&width=435&lines=Hello%2C+I'm+ashir;Javascript+Engineer;Thanks+for+stopping+by!)](https://git.io/typing-svg)
