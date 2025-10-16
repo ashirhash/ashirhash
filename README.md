@@ -30,5 +30,3 @@ My inbox is always open. Whether you have a question or just want to say hi. Fee
 
 
 > “A good engineer doesn’t just write code. They ensure it works, scales, ships — and that users don’t even notice the seams.”  
-
-Let’s build something great.  
