@@ -29,4 +29,4 @@ My inbox is always open. Whether you have a question or just want to say hi. Fee
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-> “A good engineer doesn’t just write code. They ensure it works, scales, ships — and that users don’t even notice the seams.”  
+> “Good architecture fades into the background, bad architecture makes noise.”  
