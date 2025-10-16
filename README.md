@@ -22,7 +22,7 @@ My sweet spot lies at the intersection of **modern JavaScript frameworks** (Reac
 ## Connect With Me
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/ashir-hashmi/)  
 - Email: [Mail Me](mailto:ashirhashmi26@gmail.com)
-- GitHub: [github.com/code-zax](https://github.com/ashirhash/) 
+- GitHub: [github.com/ashirhash](https://github.com/ashirhash/) 
 
 My inbox is always open. Whether you have a question or just want to say hi. Feel free to explore my repos, raise issues, or reach out for collaboration ideas.
 
