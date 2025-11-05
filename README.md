@@ -20,7 +20,7 @@ My expertise lies in the overlap between **modern JavaScript frameworks** (React
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect With Me
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/ashir-hashmi/)  
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/ashirhash/)  
 - Email: [Mail Me](mailto:ashirhashmi26@gmail.com)
 - GitHub: [github.com/ashirhash](https://github.com/ashirhash/) 
 
