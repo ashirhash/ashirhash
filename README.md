@@ -20,7 +20,7 @@ My expertise lies between **modern JavaScript frameworks** (React ,Next.js, etc.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Connect With Me
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/ashirhash/)  
+- LinkedIn: [in/ashirhash](https://www.linkedin.com/in/ashirhash/)  
 - Email: [Mail Me](mailto:ashirhashmi26@gmail.com)
 - GitHub: [github.com/ashirhash](https://github.com/ashirhash/) 
 
