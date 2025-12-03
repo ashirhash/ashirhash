@@ -7,7 +7,7 @@
 
 With over **3 years** of experience, I build and scale products over the web that solve real problems.
 
-My expertise lies in the overlap between **modern JavaScript frameworks** (React ,Next.js, etc.) and **backend & API systems** (Node.js, MongoDB, etc.). I work alongside teams as well as independently, developing architectures, unblocking bottlenecks, and ensuring launches succeed.
+My expertise lies between **modern JavaScript frameworks** (React ,Next.js, etc.) and **backend & API systems** (Node.js, MongoDB, etc.). I work alongside teams as well as independently, developing architectures, unblocking bottlenecks, and ensuring launches succeed.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
