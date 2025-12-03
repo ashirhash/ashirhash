@@ -12,7 +12,7 @@ My expertise lies between **modern JavaScript frameworks** (React ,Next.js, etc.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,mongodb,nodejs,react,redux,nextjs,express,github,git,tailwind,bootstrap,materialui,electron,jquery,netlify,vercel,vite,npm,notion,regex,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,mongodb,nodejs,express,ts,github,git,tailwind,bootstrap,materialui,electron,jquery,netlify,vercel,vite,npm,notion,regex,jest)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=mysql,graphql,gitlab,nestjs)](https://skillicons.dev)
