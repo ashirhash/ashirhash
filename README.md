@@ -12,10 +12,10 @@ I've collaborated with people all over the world, working within teams or indepe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,mongodb,nodejs,express,ts,github,git,tailwind,bootstrap,materialui,electron,jquery,netlify,vercel,vite,npm,notion,regex,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nextjs,mongodb,nodejs,express,ts,github,git,gitlab,tailwind,bootstrap,materialui,electron,jquery,netlify,vercel,vite,npm,notion,regex,jest)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=mysql,graphql,gitlab,nestjs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=mysql,graphql,nestjs)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
